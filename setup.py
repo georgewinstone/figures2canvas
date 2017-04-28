@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'figures2canvas',
   packages = ['figures2canvas'], # this must be the same as the name above
-  version = '0.1',
+  version = '0.2',
   description = 'merges currently open figures',
   author = 'George Winstone',
   author_email = 'george.winstone@gmail.com',
